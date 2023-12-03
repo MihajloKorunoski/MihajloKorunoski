@@ -35,7 +35,11 @@
 ### Game Development  
 <div align="center">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
-<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-512x512-0mwtjk1x.png" alt="Unity" height="50" /></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-512x512-0mwtjk1x.png" alt="UnrealEngine" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.autodesk.com/za/products/maya/overview-dts" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/6izqfH52JkN5.png?o=1" alt="Maya" height="50" /></a>
+<a href="https://www.maxon.net/en/zbrush" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/DDUVUlxxtRfx.png?o=1" alt="Zbrush" height="50" /></a>
+<a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/lHdqyrseyDNC.png?o=1" alt="SubstancePainter" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
