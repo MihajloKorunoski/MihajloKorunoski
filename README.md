@@ -29,7 +29,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
-
+<br/>
 
 
 ### Game Development  
@@ -40,7 +40,6 @@
 <a href="https://www.autodesk.com/za/products/maya/overview-dts" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/6izqfH52JkN5.png?o=1" alt="Maya" height="50" /></a>
 <a href="https://www.maxon.net/en/zbrush" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/DDUVUlxxtRfx.png?o=1" alt="Zbrush" height="50" /></a>
 <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/lHdqyrseyDNC.png?o=1" alt="SubstancePainter" height="50" /></a>
-</br>
 </div>
 
 </td><td valign="top" width="50%">
