@@ -30,6 +30,8 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
 <br/>
+<br/>
+<br/>
 
 
 ### Game Development  
