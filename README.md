@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on juggling code and textbooks in my studies.  
   
 
-- 🌱 I’m currently learning React (for elegance) and JQuery (for the charm).  
+- 🌱 I’m currently learning Data Engineering.
   
 
 - 🤔 I’m looking to broaden my knowledge in game development  
