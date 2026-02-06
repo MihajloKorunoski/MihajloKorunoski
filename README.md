@@ -29,17 +29,15 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>  
-<br/>
-<br/>
 
 
 ### Game Development  
 <div align="center">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
-<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-512x512-0mwtjk1x.png" alt="UnrealEngine" height="50" /></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/7460929c-7994-418f-b2de-da16c2e19e18" alt="UnrealEngine" height="50" />
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.autodesk.com/za/products/maya/overview-dts" target="_blank"><img height="50" alt="Maya" style="margin alt="autodesk-maya-icon" src="https://github.com/user-attachments/assets/ed8ae65a-7e35-4bdd-812d-9aac49393f5b" />
-<a href="https://www.maxon.net/en/zbrush" target="_blank"><img style="margin: 10px" src="https://gcdnb.pbrd.co/images/DDUVUlxxtRfx.png?o=1" alt="Zbrush" height="50" /></a>
+<a href="https://www.maxon.net/en/zbrush" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/5ae418dd-a21b-455f-a0c1-c96c9b49839d" alt="Zbrush" height="50" /></a>
 <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank"><img style:"margin: 10px" src="https://github.com/user-attachments/assets/e749048c-ed9c-4e69-af34-a87bd0c268b4" alt="SubstancePainter" height="50" /></a>
 
 </div>
